@@ -9,6 +9,7 @@ Navigate to "APIs & Services" > "Library" in the left sidebar
 Click "New project" and Create
 Search for "YouTube Data API v3"
 Click on it and then click "Enable"
+
 Create credentials:
 Go to "APIs & Services" > "Credentials" in the left sidebar
 Click "Create Credentials" and select "API key"
