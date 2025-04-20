@@ -1,3 +1,6 @@
+# run this command on terminal/console
+# pip install PySide6 matplotlib nltk vaderSentiment transformers wordcloud google-api-python-client pandas numpy
+
 import re
 import nltk
 import pandas as pd
