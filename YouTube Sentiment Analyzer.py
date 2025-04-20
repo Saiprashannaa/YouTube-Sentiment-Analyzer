@@ -1,5 +1,7 @@
-# run this command on terminal/console
+# run this command on terminal/console:
 # pip install PySide6 matplotlib nltk vaderSentiment transformers wordcloud google-api-python-client pandas numpy
+
+# Enter your YouTube API key in the code (last section)
 
 import re
 import nltk
